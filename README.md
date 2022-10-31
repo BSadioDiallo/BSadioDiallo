@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BSadioDiallo
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++ language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making a game, anything interesting
 - 📫 How to reach me 12kdusal@gmail.com
 
 <!---
